@@ -1,6 +1,4 @@
-﻿using BuildingBlocks.CQRS;
-using Catalog.API.Models;
-using Marten;
+﻿
 using Marten.Pagination;
 
 namespace Catalog.API.Products.GetProducts
